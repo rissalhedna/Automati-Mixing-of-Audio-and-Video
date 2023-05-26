@@ -1,4 +1,4 @@
-# Automati Mixing of Audio and Video
+# Automatic Mixing of Audio and Video
 ## Introduction:
 Video-formatted content has become increasingly vital for communication due to its ability to convey ideas in an entertaining manner. With advancements in streaming technology and sharing techniques, video recording and sharing have become faster and more convenient. The availability of user-friendly video and audio recording tools, such as smartphone cameras, has contributed to the widespread use of video content. Additionally, AI-driven video editing tools have automated the editing process, making it more accessible to users. However, the existing tools often overlook the importance of short-form videos that combine short clips and music, which have gained popularity on social media platforms. This paper proposes a system that explores the relationship between audio and video in short-form videos and suggests automated edits based on the chosen music.
 
