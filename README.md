@@ -19,8 +19,8 @@ By achieving these objectives, we seek to contribute to the field of AI video ed
 
 This repository contains two Jupyter notebooks that demonstrate the functionality and implementation of the automated audio-video mixing system:
 
-1. **`data_preprocessing.ipynb`**: Handles the preprocessing of audio and video data, including feature extraction and synchronization techniques.
-2. **`model_training.ipynb`**: Implements and trains the deep learning models (LSTM and GRU) used for analyzing and synchronizing audio beats with video clips.
+1. **`Beat_Detector.ipynb`**: Handles the pre-processing logic of videos and their associated audios from scratch.
+2. **`NN_Model.ipynb`**: Implements and trains the deep learning models (LSTM and GRU) used for analyzing and synchronizing audio beats with video clips.
 
 ## 📄 Publication
 
