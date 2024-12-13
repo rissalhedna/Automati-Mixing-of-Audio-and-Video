@@ -36,12 +36,11 @@ Rissal Hedna
 
 - **Operating System:** Windows, macOS, or Linux
 - **Python Version:** 3.7 or higher
-- **Libraries:** Ensure that the necessary Python libraries are installed. See [Installation](#installation) below.
 
 ### Installation
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/AutomaticMixingAudioVideo.git
-   cd AutomaticMixingAudioVideo
+   git clone https://github.com/rissalhedna/Automatic-Mixing-of-Audio-and-Video
+   cd Automatic-Mixing-of-Audio-and-Video
